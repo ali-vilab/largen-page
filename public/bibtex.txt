@@ -1,0 +1,6 @@
+@article{pan2024locate,
+  title={Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance},
+  author={Pan, Yulin and Mao, Chaojie and Jiang, Zeyinzi and Han, Zhen and Zhang, Jingfeng},
+  journal={arXiv preprint arXiv:2403.19534},
+  year={2024}
+}
